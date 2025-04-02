@@ -97,7 +97,7 @@ def AskQuestions(context):
     
 if __name__ == "__main__":
     #retrieve text file
-    text = load_text_file('Thesis.txt')
+    text = load_text_file('Rapport.txt')
     #set API Key
     OPENAI_API_KEY = load_text_file('api.txt')
 
