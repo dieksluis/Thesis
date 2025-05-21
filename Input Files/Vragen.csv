@@ -1,0 +1,10 @@
+Questions;Options
+In welke levensfase zit het systeem? ;Nieuwbouw, Doorontwikkeling, Beheer en onderhoud, Vervanging, Geen antwoord
+Wordt een substantieel gedeelte van de activiteit voor het nieuwe systeem door leveranciers uitgevoerd?;Geen leveranciers, Één leverancier, Meerdere leveranciers, Leveranciersconsortium, Geen antwoord
+Om hoeveel applicaties gaat het?;Één applicatie, Enkele applicaties, Een landschap van applicaties, Geen antwoord
+Wordt het systeem(en) door één of meerdere organisaties gebruikt? In het geval van meerdere organisaties, gaat het dan om een keten of netwerk van samenwerkende organisaties of om een andere soort groep van organisaties? ;Één organisatie, Netwerk of keten van samenwerkende organisaties, Ander soort groep organisaties, Geen antwoord
+Wat voor soort applicatie is het?;Desktop applicatie, Webapplicatie, Mobiele applicatie, Middleware, Embedded software, Geen antwoord
+Is het maatwerk of pakket software?;Maatwerk, Standaard pakket, Aangepast pakket, Geen antwoord
+Wat voor soort systeem is het?;Interactief systeem, Transactie verwerkend systeem, Besturingssysteem, Rapportage systeem, Gegevens beheer systeem, Anders, Geen antwoord
+Wie zijn de gebruikers  van het systeem?;Medewerkers van een uitvoeringsorganisatie, Andere ambtenaren, Burgers, Anders, Geen antwoord
+Hoe is de hosting van het systeem ingedeeld;Eigen datacentrum, Co-location, Cloud platform, Geen antwoord
