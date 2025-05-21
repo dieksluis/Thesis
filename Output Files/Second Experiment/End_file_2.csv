@@ -1,0 +1,75 @@
+Name;Question 1;Question 2;Question 3;Question 4;Question 5;Question 6;Question 7;Question 8;Question 9;score;Score
+Holmes;Beheer en onderhoud;Meerdere leveranciers;Enkele applicaties;Één organisatie;Mobiele applicatie;Maatwerk;Gegevens beheer systeem;Medewerkers van een uitvoeringsorganisatie;Cloud platform;;
+Holmes anthropic/claude-3-5-sonnet-20240620;Beheer en onderhoud;Meerdere leveranciers;Enkele applicaties;Één organisatie;Mobiele applicatie;Maatwerk;Gegevens beheer systeem;Medewerkers van een uitvoeringsorganisatie;Cloud platform;;
+Holmes anthropic/claude-3-5-sonnet-20240620 Evaluation;True;True;True;True;True;True;True;True;True;;9/9
+Holmes groq/deepseek-r1-distill-llama-70b;Beheer en onderhoud;Meerdere leveranciers;Enkele applicaties;Ander soort groep organisaties;Mobiele applicatie;Geen antwoord;Gegevens beheer systeem;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+Holmes groq/deepseek-r1-distill-llama-70b Evaluation;True;True;True;False;True;False;True;True;False;;6/9
+Holmes openai/gpt-4o;Beheer en onderhoud;Één leverancier;Enkele applicaties;Één organisatie;Mobiele applicatie;Maatwerk;Gegevens beheer systeem;Medewerkers van een uitvoeringsorganisatie;Cloud platform;;
+Holmes openai/gpt-4o Evaluation;True;False;True;True;True;True;True;True;True;;8/9
+MKO;Vervanging;Geen antwoord;Één applicatie;Één organisatie;Middleware;Maatwerk;Gegevens beheer systeem;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+MKO anthropic/claude-3-5-sonnet-20240620;Vervanging;Geen antwoord;Een landschap van applicaties;Één organisatie;Middleware;Maatwerk;Transactie verwerkend systeem;Burgers;Geen antwoord;;
+MKO anthropic/claude-3-5-sonnet-20240620 Evaluation;True;True;False;True;True;True;False;False;True;;6/9
+MKO groq/deepseek-r1-distill-llama-70b;Vervanging;Geen antwoord;Een landschap van applicaties;Één organisatie;Middleware;Geen antwoord;Transactie verwerkend systeem;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+MKO groq/deepseek-r1-distill-llama-70b Evaluation;True;True;False;True;True;False;False;True;True;;6/9
+MKO openai/gpt-4o;Vervanging;Één leverancier;Een landschap van applicaties;Netwerk of keten van samenwerkende organisaties;Middleware;Geen antwoord;Transactie verwerkend systeem;Burgers;Geen antwoord;;
+MKO openai/gpt-4o Evaluation;True;False;False;False;True;False;False;False;True;;3/9
+NMS;Vervanging;Meerdere leveranciers;Één applicatie;Netwerk of keten van samenwerkende organisaties;Geen antwoord;Standaard pakket;Interactief systeem;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+NMS anthropic/claude-3-5-sonnet-20240620;Vervanging;Meerdere leveranciers;Één applicatie;Netwerk of keten van samenwerkende organisaties;Geen antwoord;Standaard pakket;Interactief systeem;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+NMS anthropic/claude-3-5-sonnet-20240620 Evaluation;True;True;True;True;True;True;True;True;True;;9/9
+NMS groq/deepseek-r1-distill-llama-70b;Vervanging;Meerdere leveranciers;Één applicatie;Netwerk of keten van samenwerkende organisaties;Desktop applicatie;Standaard pakket;Anders;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+NMS groq/deepseek-r1-distill-llama-70b Evaluation;True;True;True;True;False;True;False;True;True;;7/9
+NMS openai/gpt-4o;Vervanging;Meerdere leveranciers;Een landschap van applicaties;Netwerk of keten van samenwerkende organisaties;Geen antwoord;Standaard pakket;Transactie verwerkend systeem;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+NMS openai/gpt-4o Evaluation;True;True;False;True;True;True;False;True;True;;7/9
+Nieuw GBS;Vervanging;Meerdere leveranciers;Enkele applicaties;Één organisatie;Geen antwoord;Maatwerk;Gegevens beheer systeem;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+Nieuw GBS anthropic/claude-3-5-sonnet-20240620;Vervanging;Meerdere leveranciers;Enkele applicaties;Één organisatie;Geen antwoord;Maatwerk;Gegevens beheer systeem;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+Nieuw GBS anthropic/claude-3-5-sonnet-20240620 Evaluation;True;True;True;True;True;True;True;True;True;;9/9
+Nieuw GBS groq/deepseek-r1-distill-llama-70b;Vervanging;Meerdere leveranciers;Enkele applicaties;Netwerk of keten van samenwerkende organisaties;Geen antwoord;Maatwerk;Gegevens beheer systeem;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+Nieuw GBS groq/deepseek-r1-distill-llama-70b Evaluation;True;True;True;False;True;True;True;True;True;;8/9
+Nieuw GBS openai/gpt-4o;Vervanging;Meerdere leveranciers;Een landschap van applicaties;Één organisatie;Webapplicatie;Geen antwoord;Gegevens beheer systeem;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+Nieuw GBS openai/gpt-4o Evaluation;True;True;False;True;False;False;True;True;True;;6/9
+PLOOI;Doorontwikkeling;Geen antwoord;Één applicatie;Ander soort groep organisaties;Webapplicatie;Maatwerk;Gegevens beheer systeem;Andere ambtenaren;Geen antwoord;;
+PLOOI anthropic/claude-3-5-sonnet-20240620;Doorontwikkeling;Geen antwoord;Één applicatie;Ander soort groep organisaties;Webapplicatie;Maatwerk;Gegevens beheer systeem;Burgers;Geen antwoord;;
+PLOOI anthropic/claude-3-5-sonnet-20240620 Evaluation;True;True;True;True;True;True;True;False;True;;8/9
+PLOOI groq/deepseek-r1-distill-llama-70b;Vervanging;Geen antwoord;Één applicatie;Geen antwoord;Webapplicatie;Maatwerk;Gegevens beheer systeem;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+PLOOI groq/deepseek-r1-distill-llama-70b Evaluation;False;True;True;False;True;True;True;False;True;;6/9
+PLOOI openai/gpt-4o;Doorontwikkeling;Geen antwoord;Één applicatie;Ander soort groep organisaties;Webapplicatie;Maatwerk;Gegevens beheer systeem;Geen antwoord;Geen antwoord;;
+PLOOI openai/gpt-4o Evaluation;True;True;True;True;True;True;True;False;True;;8/9
+SIO ZW Arbo;Vervanging;Geen antwoord;Een landschap van applicaties;Één organisatie;Webapplicatie;Maatwerk;Interactief systeem;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+SIO ZW Arbo anthropic/claude-3-5-sonnet-20240620;Vervanging;Geen antwoord;Enkele applicaties;Één organisatie;Webapplicatie;Maatwerk;Interactief systeem;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+SIO ZW Arbo anthropic/claude-3-5-sonnet-20240620 Evaluation;True;True;False;True;True;True;True;True;True;;8/9
+SIO ZW Arbo groq/deepseek-r1-distill-llama-70b;Vervanging;Geen antwoord;Een landschap van applicaties;Één organisatie;Geen antwoord;Geen antwoord;Transactie verwerkend systeem;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+SIO ZW Arbo groq/deepseek-r1-distill-llama-70b Evaluation;True;True;True;True;False;False;False;True;True;;6/9
+SIO ZW Arbo openai/gpt-4o;Vervanging;Geen antwoord;Een landschap van applicaties;Één organisatie;Webapplicatie;Maatwerk;Gegevens beheer systeem;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+SIO ZW Arbo openai/gpt-4o Evaluation;True;True;True;True;True;True;False;True;True;;8/9
+TIV;Vervanging;Geen antwoord;Een landschap van applicaties;Één organisatie;Geen antwoord;Geen antwoord;Geen antwoord;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+TIV anthropic/claude-3-5-sonnet-20240620;Vervanging;Geen antwoord;Een landschap van applicaties;Één organisatie;Geen antwoord;Geen antwoord;Transactie verwerkend systeem;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+TIV anthropic/claude-3-5-sonnet-20240620 Evaluation;True;True;True;True;True;True;False;True;True;;8/9
+TIV groq/deepseek-r1-distill-llama-70b;Vervanging;Geen antwoord;Een landschap van applicaties;Één organisatie;Geen antwoord;Standaard pakket;Transactie verwerkend systeem;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+TIV groq/deepseek-r1-distill-llama-70b Evaluation;True;True;True;True;True;False;False;True;True;;7/9
+TIV openai/gpt-4o;Vervanging;Geen antwoord;Een landschap van applicaties;Één organisatie;Geen antwoord;Standaard pakket;Transactie verwerkend systeem;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+TIV openai/gpt-4o Evaluation;True;True;True;True;True;False;False;True;True;;7/9
+Uitrol iWKS;Vervanging;Meerdere leveranciers;Één applicatie;Één organisatie;Embedded software;Maatwerk;Besturingssysteem;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+Uitrol iWKS anthropic/claude-3-5-sonnet-20240620;Vervanging;Meerdere leveranciers;Geen antwoord;Één organisatie;Embedded software;Maatwerk;Besturingssysteem;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+Uitrol iWKS anthropic/claude-3-5-sonnet-20240620 Evaluation;True;True;False;True;True;True;True;True;True;;8/9
+Uitrol iWKS groq/deepseek-r1-distill-llama-70b;Vervanging;Geen leveranciers;Één applicatie;Één organisatie;Embedded software;Maatwerk;Besturingssysteem;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+Uitrol iWKS groq/deepseek-r1-distill-llama-70b Evaluation;True;False;True;True;True;True;True;True;True;;8/9
+Uitrol iWKS openai/gpt-4o;Vervanging;Meerdere leveranciers;Één applicatie;Één organisatie;Embedded software;Maatwerk;Besturingssysteem;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+Uitrol iWKS openai/gpt-4o Evaluation;True;True;True;True;True;True;True;True;True;;9/9
+Vernieuwing CIZ;Vervanging;Meerdere leveranciers;Één applicatie;Één organisatie;Webapplicatie;Maatwerk;Geen antwoord;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+Vernieuwing CIZ anthropic/claude-3-5-sonnet-20240620;Vervanging;Meerdere leveranciers;Enkele applicaties;Één organisatie;Webapplicatie;Aangepast pakket;Transactie verwerkend systeem;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+Vernieuwing CIZ anthropic/claude-3-5-sonnet-20240620 Evaluation;True;True;False;True;True;False;False;True;True;;6/9
+Vernieuwing CIZ groq/deepseek-r1-distill-llama-70b;Vervanging;Meerdere leveranciers;Een landschap van applicaties;Één organisatie;Webapplicatie;Maatwerk;Transactie verwerkend systeem;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+Vernieuwing CIZ groq/deepseek-r1-distill-llama-70b Evaluation;True;True;False;True;True;True;False;True;True;;7/9
+Vernieuwing CIZ openai/gpt-4o;Vervanging;Meerdere leveranciers;Enkele applicaties;Één organisatie;Webapplicatie;Maatwerk;Transactie verwerkend systeem;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+Vernieuwing CIZ openai/gpt-4o Evaluation;True;True;False;True;True;True;False;True;True;;7/9
+WORKit;Vervanging;Geen antwoord;Een landschap van applicaties;Netwerk of keten van samenwerkende organisaties;Geen antwoord;Aangepast pakket;Geen antwoord;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+WORKit anthropic/claude-3-5-sonnet-20240620;Vervanging;Geen antwoord;Enkele applicaties;Netwerk of keten van samenwerkende organisaties;Geen antwoord;Aangepast pakket;Interactief systeem;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+WORKit anthropic/claude-3-5-sonnet-20240620 Evaluation;True;True;False;True;True;True;False;True;True;;7/9
+WORKit groq/deepseek-r1-distill-llama-70b;Vervanging;Geen antwoord;Enkele applicaties;Netwerk of keten van samenwerkende organisaties;Webapplicatie;Maatwerk;Transactie verwerkend systeem;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+WORKit groq/deepseek-r1-distill-llama-70b Evaluation;True;True;False;True;False;False;False;True;True;;5/9
+WORKit openai/gpt-4o;Vervanging;Geen antwoord;Een landschap van applicaties;Netwerk of keten van samenwerkende organisaties;Geen antwoord;Maatwerk;Transactie verwerkend systeem;Medewerkers van een uitvoeringsorganisatie;Geen antwoord;;
+WORKit openai/gpt-4o Evaluation;True;True;True;True;True;False;False;True;True;;7/9
+Score openai/gpt-4o;10/10;8/10;6/10;9/10;9/10;6/10;4/10;8/10;10/10;;
+Score groq/deepseek-r1-distill-llama-70b;9/10;9/10;7/10;7/10;7/10;5/10;4/10;9/10;9/10;;
+Score anthropic/claude-3-5-sonnet-20240620;10/10;10/10;5/10;10/10;10/10;9/10;6/10;8/10;10/10;;
+Score Total;29/30;27/30;18/30;26/30;26/30;20/30;14/30;25/30;29/30;;214/270
